@@ -27,4 +27,4 @@ C-stick: WASD
 Have fun!
  
  
- ALSO heres the link: https://progamer1251718.github.io/Progamer1251718.github.io-Sm64-JS/ 
+ ALSO heres the link: https://progamer1251718.github.io/SM64-JS/ 
