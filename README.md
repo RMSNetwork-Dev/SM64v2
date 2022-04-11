@@ -28,3 +28,7 @@ Have fun!
  
  
  ALSO heres the link: https://progamer1251718.github.io/SM64-JS/ 
+ 
+ if that did not work try this one :https://28klotlucas2.github.io/Mario64webgl/ 
+ 
+ and if that one did not work try this finale one made by me : https://progamer1251718.github.io/Progamer1251718.github.io-Sm64-JS/ 
